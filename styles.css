@@ -1,0 +1,22 @@
+/* Custom styles for the Functional Bank application */
+body {
+    font-family: Arial, sans-serif;
+   
+}
+
+.b{
+   background-color: #AFDDEF;
+}
+
+header h1 {
+    margin: 0;
+
+}
+.h{
+    backdrop-filter: 50px;
+    background-color: #afddef55;
+}
+
+button {
+    cursor: pointer;
+}
